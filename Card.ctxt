@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=suit\ values
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Created\ with\ an\ integer\ that\ represents\ a\ spot\ in\ the\ String\ array\ ranks\ and\ the\ String\ array\ suits.\ This\ represents\r\n\ the\ rank\ and\ suit\ of\ an\ individual\ card.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ the\ string\ version\ of\ a\ card.\r\n
+comment3.params=
+comment3.target=int\ getRank()
+comment3.text=\r\n\ Returns\ the\ rank\ of\ a\ card.\r\n
+comment4.params=
+comment4.target=int\ getSuit()
+comment4.text=\r\n\ Returns\ the\ suit\ of\ a\ card.\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ Returns\ the\ value\ of\ a\ card.\ If\ a\ jack,\ queen,\ or\ king\ the\ value\ is\ ten.\ Aces\ are\ 11\ for\ now.\r\n
+comment6.params=set
+comment6.target=void\ setValue(int)
+comment6.text=\r\n\ Sets\ the\ value\ of\ a\ card.\r\n
+numComments=7
